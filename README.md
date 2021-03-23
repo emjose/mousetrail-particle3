@@ -14,7 +14,7 @@
 
 <br>
 
-<a href="https://emjose.github.io/mousetrail-particle3">![Mouse Trail 3](Assets/preview-024-particle-3.png)</a> 
+<a href="https://emjose.github.io/mousetrail-particle3/">![Mouse Trail 3](Assets/preview-024-particle-3.png)</a> 
 
 #
 
@@ -55,9 +55,9 @@ open index.html
 
 <p id="live-site"><p>
 
-<a href="https://emjose.github.io/mousetrail-particle3">![Live Site](Assets/inter-live-site.png)</a>  
+<a href="https://emjose.github.io/mousetrail-particle3/">![Live Site](Assets/inter-live-site.png)</a>  
 
-<a href="https://emjose.github.io/mousetrail-particle3">![Under Construction](Assets/lorem-live.png)</a>
+<a href="https://emjose.github.io/mousetrail-particle3/">![Under Construction](Assets/lorem-live.png)</a>
 
 #
 
