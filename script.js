@@ -44,8 +44,8 @@ class Particle {
             this.x = (mouse.x + ((Math.random() * 20) - 10));
             this.y = (mouse.y + ((Math.random() * 20) - 10));
             // Change size from 2 to 12
-            this.size = (Math.random() * 18) + 10;
-            this.weight = (Math.random() * 2) - 0.5;
+            this.size = (Math.random() * 18) + 25;
+            this.weight = (Math.random() * 2) - 0.05;
         }
         this.y += this.weight;
         this.weight += 0.2;
@@ -63,7 +63,7 @@ function init(){
         let y = Math.random() * canvas.height;
         // change from * 15 to * 25
         let size = (Math.random() * 18) + 10;
-        let color = 'rgb(235, 0, 51)';
+        let color = 'rgb(0, 255, 255)';
         let weight = 1;
         particleArray.push(new Particle(x, y, size, color, weight));
     }
