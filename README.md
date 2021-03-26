@@ -53,7 +53,7 @@ git clone git@github.com:emjose/mousetrail-particle3.git && cd mousetrail-partic
 ```
 open index.html
 ```
-#### On your device, move the cursor around to see the mouse trail effect.
+#### On your device, click and press down the cursor, moving it around to see the mouse trail effect.
 
 #
 
