@@ -48,19 +48,19 @@
 
 <a href=#installation>![Installation](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389842/Readme%20Headers/inter-installation_j9ixlq.png)</a>
 
-#### Git clone and cd into the repo folder:
+#### 1. Git clone and cd into the repo folder:
 
 ```console
 git clone git@github.com:emjose/mousetrail-particle3.git && cd mousetrail-particle3
 ```
 
-#### Run the command:
+#### 2. Run the command:
 
 ```console
 open index.html
 ```
 
-#### On your device, click and press down the cursor, moving it around to see the mouse trail effect.
+#### 3. On your device, click and press down the cursor, moving it around to see the mouse trail effect.
 
 #
 
