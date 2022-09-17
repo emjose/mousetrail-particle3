@@ -84,8 +84,6 @@ open index.html
 
 #
 
-#
-
 <p id="resources"><p>
 
 <a href=#resources>![Resources](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314247/Readme%20Headers/inter-resources_ncevbw.png)</a>
